@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "name": "octocat/hello-world",
+      "description": "A simple starter project for learning HTML, CSS, and JavaScript.",
+      "language": "HTML",
+      "stargazers_count": 412,
+      "html_url": "https://github.com/octocat/hello-world"
+    },
+    {
+      "name": "mozilla/pdf.js",
+      "description": "PDF Reader in JavaScript built for the web.",
+      "language": "JavaScript",
+      "stargazers_count": 60435,
+      "html_url": "https://github.com/mozilla/pdf.js"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React framework for full-stack web applications.",
+      "language": "TypeScript",
+      "stargazers_count": 129000,
+      "html_url": "https://github.com/vercel/next.js"
+    },
+    {
+      "name": "microsoft/vscode",
+      "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+      "language": "TypeScript",
+      "stargazers_count": 212000,
+      "html_url": "https://github.com/microsoft/vscode"
+    },
+  
+  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
+  { "name": "github/docs", "starred": "2024-02-02" },
+  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
+]
+}
